@@ -1,1 +1,2 @@
-# Sentiment-Analysus
+# Sentiment-Analysis
+This project focuses on sentiment analysis using deep learning techniques to determine the sentiment of text data, such as tweets. Key steps include importing essential libraries, loading and cleaning the dataset, and visualizing data to identify patterns. The text data is preprocessed through stemming and tokenization, followed by padding to ensure uniform input length. The dataset is then split into training and testing sets. A sequential deep learning model( LSTM ), is built and trained using an appropriate optimizer and loss function. The model's performance is evaluated, achieving an accuracy of 86.34% on test data, demonstrating its effectiveness in sentiment prediction.
